@@ -1,0 +1,64 @@
+Manifest-Version: 1.0
+Built-By: Generated-by-ADT
+Created-By: Android Gradle 3.1.3
+
+Name: AndroidManifest.xml
+SHA-256-Digest: glztQnftKNmBfACg3mM1yqZQ3nnOZrRR61tk/gZqa2s=
+
+Name: classes.dex
+SHA-256-Digest: H8Lh+WBUrYyL5TboHKq8WHuHTPzgNLDgYIR9cdybp1Y=
+
+Name: res/drawable-v24/$ic_launcher_foreground__0.xml
+SHA-256-Digest: YNuSvLVkT8WWvwGmDWVWqmkp2PxWvlYWIpyUkb+4dUw=
+
+Name: res/drawable-v24/ic_launcher_foreground.xml
+SHA-256-Digest: 2noFkugVPciUHFwEuhz4vnmGW6ZuREoVFPm/DQrpslQ=
+
+Name: res/drawable/ic_launcher_background.xml
+SHA-256-Digest: 5TsFaC/0VH78WLSjvM6Eoii3WYHh1PdlAh6U2UfZh68=
+
+Name: res/layout/activity_camera.xml
+SHA-256-Digest: WvsOiV7LtPcu82IeiL7wf4BDpT0/JMJUyKgAEpQDhTs=
+
+Name: res/layout/activity_main.xml
+SHA-256-Digest: v6cRQHMiWdUOW7K0JB4ivb59oK2+CBbsUgLdiQ/LVA4=
+
+Name: res/mipmap-anydpi-v26/ic_launcher.xml
+SHA-256-Digest: msCHi3gnrSVLdtlIoR4VkC5RaRND0f6XxiI6I6O0r1s=
+
+Name: res/mipmap-anydpi-v26/ic_launcher_round.xml
+SHA-256-Digest: msCHi3gnrSVLdtlIoR4VkC5RaRND0f6XxiI6I6O0r1s=
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA-256-Digest: 3teqv2pWtpTkhuCW79ieLwyQZ9KStjRmOJjjUslJHxA=
+
+Name: res/mipmap-hdpi-v4/ic_launcher_round.png
+SHA-256-Digest: ITBKDJsA2mpyz6MccinJUo/Be25etOaKlpvOCMAaL+4=
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA-256-Digest: 7vIPJfsUd9jJ3xV1fnZIEcxQP7B3fxjQ9/stGReLW/Y=
+
+Name: res/mipmap-mdpi-v4/ic_launcher_round.png
+SHA-256-Digest: Ug0F+XihW6DM8jAGoaVpGgVKAkeMcMr8Xrr6525gDw0=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA-256-Digest: 53xQRb/bb0u+lVs6eTv+07qjac5IEa4qkQPVSAY3z/8=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher_round.png
+SHA-256-Digest: KEbhpwPlGXkf4i9BvLJDuC+QjRLl68tD8CDd+ZgngLA=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA-256-Digest: 6zo0sTYy4Ms7HA9CcwNYZsvoGxsXtxeM4p0Zx405Sl4=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher_round.png
+SHA-256-Digest: NjpWm+ty6LAHvwRkVGEhSNTJ94K5ORNSBZ/oMXnxjjA=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher.png
+SHA-256-Digest: n/JzKLaRa391uZ7zYVPxVLtHJJRuVlRjXLouJXNSxp8=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher_round.png
+SHA-256-Digest: W6zZehtB5EE8YJLNvYP2URKpEk6CPPqjohnGXidhZHs=
+
+Name: resources.arsc
+SHA-256-Digest: FkoFyvZPtqerXGMVgiCZMOGYrg69c+ZqvghCcxltzTw=
+
